@@ -1,4 +1,4 @@
-# tower-trials
+# Tower Trials
 
 Tower Trials is Ethan's first program. It is a text based game that challenges the user with a series of righteous trials. The user must solve the trials to win the game.
 
